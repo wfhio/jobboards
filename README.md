@@ -217,6 +217,10 @@ A curated list of awesome niche job boards.
 
 * [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking, and real-time job vacancy statistics
 
+### Africa
+
+* [Hired Jobs](https://www.hired.co.ke) - This includes both remote and onsite jobs in East Africa and most specifically in Kenya
+
 ## Writing
 
 * [WorkingInContent.com](https://workingincontent.com/) - Jobs in Content Strategy, Content Design, UX Writing and more
