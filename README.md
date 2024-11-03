@@ -126,6 +126,7 @@ A curated list of awesome niche job boards.
 * [Svelte Jobs](https://sveltejobs.com/)
 * [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source
 * [JSJobbs](https://jsjobbs.com/)
+* [SvelteCareers](https://sveltecareers.com/)
 
 ### Mobile
 
