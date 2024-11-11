@@ -161,6 +161,9 @@ A curated list of awesome niche job boards.
 ### Scala
 * [Scala Jobs](https://scalajobs.com)
 
+### Sales
+* [Sales Jobs](https://hunter-pro.sethrecruitment.com/sales-jobs/)
+
 ### TypeScript
 * [TypeScript Jobs](https://typescriptjobs.dev)
 
