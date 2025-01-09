@@ -175,6 +175,7 @@ A curated list of awesome niche job boards.
 * [Teletravail.guru](https://teletravail.guru/) - Remote jobs for people located in France
 * [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
 * [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people 
+* [Euro Top Tech Jobs](https://eurotoptechjobs.com/) | High-Paying ($100-600k)Fully-Remote Tech Jobs
 
 
 ### Aggregator
@@ -212,6 +213,7 @@ A curated list of awesome niche job boards.
 * [DanishTech.co](https://danishtech.co/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - Dedicated Tech Job Board for Denmark 🇩🇰
 * [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - €100k+ Software Engineering Jobs 🇪🇺
 * [Work In Tech](https://www1.communitech.ca/jobs) - Find your next role at Canada's fastest-growing tech companies
+* [Euro Top Tech Jobs](https://eurotoptechjobs.com/) | Top-Paying Tech Jobs in Europe and Remotely
 
 ### United Kingdom
 
