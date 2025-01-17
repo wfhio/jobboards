@@ -53,7 +53,7 @@ A curated list of awesome niche job boards.
 ## Cloud
 
 * [CNCF Job Board](https://jobs.cncf.io/) - Kubernetes and cloud native jobs
-* [Cloud Careers Hub](https://cloudcareershub.com/) - Job board for all roles related to Cloud Computing & Artificial Intelligence 
+* [Cloud Careers Hub](https://cloudcareershub.com/) - Job board for all roles related to Cloud Computing & Artificial Intelligence
 
 ## Database
 
@@ -76,7 +76,7 @@ A curated list of awesome niche job boards.
 
 ## eCommerce
 
-* [eComPortal](https://www.ecomportal.co/) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available. 
+* [eComPortal](https://www.ecomportal.co/) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available.
 
 ## Finance
 
@@ -174,7 +174,7 @@ A curated list of awesome niche job boards.
 * [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
 * [Teletravail.guru](https://teletravail.guru/) - Remote jobs for people located in France
 * [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
-* [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people 
+* [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people
 
 
 ### Aggregator
@@ -212,6 +212,8 @@ A curated list of awesome niche job boards.
 * [DanishTech.co](https://danishtech.co/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - Dedicated Tech Job Board for Denmark 🇩🇰
 * [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - €100k+ Software Engineering Jobs 🇪🇺
 * [Work In Tech](https://www1.communitech.ca/jobs) - Find your next role at Canada's fastest-growing tech companies
+* [Jobjump](https://jobjump.com/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - Job Board in Germany with AI features, Salary Insights and Net Salary Calculations.
+
 
 ### United Kingdom
 
