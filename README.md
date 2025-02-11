@@ -69,6 +69,7 @@ A curated list of awesome niche job boards.
 * [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
 * [UX Jobs Board](https://www.uxjobsboard.com)
 * [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
+* [UI/UX Jobs Board](https://uiuxjobsboard.com/)
 
 ## DevOps
 
